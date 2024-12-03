@@ -69,6 +69,7 @@ This project demonstrates multithreading using FreeRTOS on an STM32 microcontrol
 ---
 
 
-https://github.com/user-attachments/assets/63b29438-1dc0-4c83-b6d0-ce122c078da6
+https://github.com/user-attachments/assets/b56c98d3-14bb-4835-9225-3df694483c75
+
 
 
