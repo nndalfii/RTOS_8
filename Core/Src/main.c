@@ -270,7 +270,7 @@ void AccessSharedData(void) {
 
     // Simulate read/write operations with a delay of 500 milliseconds
     // SimulateReadWriteOperation();
-    HAL_Delay(500);
+    osDelay(500);
 
     // Set Start flag back to Up to indicate resource is free
     StartFlag = 1;
